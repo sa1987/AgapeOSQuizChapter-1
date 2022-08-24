@@ -1,42 +1,38 @@
 [
-    {
-      "question": "Which of the following is/are not FAIR principles?",
-      "choice1": "Findable & Accessible",
-      "choice2": "Accessible & Reproducible",
-      "choice3": "Identifiable & Reproducible",
-      "choice4": "Reproducible & Findable",
-      "answer": 3
-    },
-    {
-      "question": "Which of the following statements is true?'?",
-      "choice1": "Metadata should be determined at the beginning of the project to provide guidelines for the process.",
-      "choice2": "Understanding the purpose of a file is a good way to start when you try to decide the format for file preserving.",
-      "choice3": "PID (persistent identifier) includes DOI, ORCID, ISBN, URL, etc.",
-      "choice4": "Sensitive data can always be FAIR in the same way as non-sensitive data.",
-      "answer": 2
-    },
-    {
-      "question": "If you want to find out about a specific author, the most effective way is to search by:",
-      "choice1": "ORCID",
-      "choice2": "URL",
-      "choice3": "DQI",
-      "choice4": "ARKs",
-      "answer": 1
-    },
-    {
-      "question": "Jane is conducting a research project that employs quantitative data without any personal or confidential information. How can she draw up a data management plan that is FAIR?",
-      "choice1": "Write a new data management plan, specifying the planned handling of all data types.",
-      "choice2": "Find the data management plan from a previous project and use it.",
-      "choice3": "Hire someone externally to write the data management plan.",
-      "choice4": "Delegate the job to one of her collaborators.",
-      "answer": 1
-    },
-    {
-      "question": " this is a place holder questions",
-      "choice1": "msgBox('Hello World');",
-      "choice2": "alertBox('Hello World');",
-      "choice3": "msg('Hello World');",
-      "choice4": "alert('Hello World');",
-      "answer": 4
-    }
-  ]
+  {
+    "question": "The term “open science”, in its true meaning, refers to STEM sciences (natural sciences and formal sciences) only.",
+    "choice1": "True",
+    "choice2": "False",
+    "answer": 2
+  },
+  {
+    "question": "When was the phrase “open science” used for the first time?",
+    "choice1": "1975",
+    "choice2": "1985",
+    "choice3": "1995",
+    "choice4": "2005",
+    "answer": 2
+  },
+  {
+    "question": "The open science movement is NOT attempting to make science…",
+    "choice1": "Collaborative and inclusive",
+    "choice2": "Transparent and reproducible",
+    "choice3": "Freely available",
+    "choice4": "Commercially appealing",
+    "answer": 4
+  },
+  {
+    "question": "Peer-review in publishing is a process where one or more people with similar competencies evaluate a researcher's manuscript before it is published.",
+    "choice1": "True",
+    "choice2": "False",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following does NOT belong under the umbrella of open science?",
+    "choice1": "Educational resources behind paywalls",
+    "choice2": "Open-source software and hardware",
+    "choice3": "Science blogs",
+    "choice4": "Citizen science",
+    "answer": 1
+  }
+]
