@@ -1,38 +1,42 @@
 [
-  {
-    "question": "The term “open science”, in its true meaning, refers to STEM sciences (natural sciences and formal sciences) only.",
-    "choice1": "True",
-    "choice2": "False",
-    "answer": 2
-  },
-  {
-    "question": "When was the phrase “open science” used for the first time?",
-    "choice1": "1975",
-    "choice2": "1985",
-    "choice3": "1995",
-    "choice4": "2005",
-    "answer": 2
-  },
-  {
-    "question": "The open science movement is NOT attempting to make science…",
-    "choice1": "Collaborative and inclusive",
-    "choice2": "Transparent and reproducible",
-    "choice3": "Freely available",
-    "choice4": "Commercially appealing",
-    "answer": 4
-  },
-  {
-    "question": "Peer-review in publishing is a process where one or more people with similar competencies evaluate a researcher's manuscript before it is published.",
-    "choice1": "True",
-    "choice2": "False",
-    "answer": 1
-  },
-  {
-    "question": "Which of the following does NOT belong under the umbrella of open science?",
-    "choice1": "Educational resources behind paywalls",
-    "choice2": "Open-source software and hardware",
-    "choice3": "Science blogs",
-    "choice4": "Citizen science",
-    "answer": 1
-  }
-]
+    {
+      "question": "The term “open science”, in its true meaning, refers to STEM sciences (natural sciences and formal sciences) only.",
+      "choice1": "True",
+      "choice2": "False",
+	    "choice3": "",
+      "choice4": "",
+      "answer": 2
+    },
+    {
+      "question": "When was the phrase “open science” used for the first time?",
+      "choice1": "1975",
+      "choice2": "1985",
+      "choice3": "1995",
+      "choice4": "2005",
+      "answer": 2
+    },
+    {
+      "question": "The open science movement is NOT attempting to make science…",
+      "choice1": "Collaborative and inclusive",
+      "choice2": "Transparent and reproducible",
+      "choice3": "Freely available",
+      "choice4": "Commercially appealing",
+      "answer": 4
+    },
+    {
+      "question": "Peer-review in publishing is a process where one or more people with similar competencies evaluate a researcher's manuscript before it is published.",
+      "choice1": "True",
+      "choice2": "False",
+	  "choice3": "",
+      "choice4": "",
+      "answer": 1
+    },
+    {
+      "question": "Which of the following does NOT belong under the umbrella of open science?",
+      "choice1": "Educational resources behind paywalls",
+      "choice2": "Open-source software and hardware",
+      "choice3": "Science blogs",
+      "choice4": "Citizen science",
+      "answer": 1
+    }
+  ]
